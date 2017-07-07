@@ -1,0 +1,30 @@
+{
+  "name": "allthenews",
+  "version": "1.0.0",
+  "description": "Week 18 homework, all the news thats fit to scrape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carltonhurdle/AllTheNewsThatsFitToScrape.git"
+  },
+  "keywords": [
+    "scrape",
+    "mongo",
+    "mongoose",
+    "cheerio",
+    "express",
+    "handlebars",
+    "body-parser",
+    "request",
+    "homework"
+  ],
+  "author": "Carlton Hurdle Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carltonhurdle/AllTheNewsThatsFitToScrape/issues"
+  },
+  "homepage": "https://github.com/carltonhurdle/AllTheNewsThatsFitToScrape#readme"
+}
